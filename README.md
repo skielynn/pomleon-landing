@@ -55,8 +55,8 @@ This landing page will evolve into a full application with..
 
 ## Reflection
 
-this project represents an early-stage product mindset... 
-building something real, useful, and immediate while planning for scale.
+this project represents an early stage product mindset... 
+building something real, useful & immediate while planning for scale.
 
 ---
 
