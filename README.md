@@ -1,16 +1,66 @@
-# React + Vite
+# Pomleon Partners Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Preview](./pomleon-preview.png)
 
-Currently, two official plugins are available:
+🔗 [Live Demo](https://pomleon.com/)  
+> ⚠️ Note: The live site may change as the full-stack version is deployed.  
+> Built as an initial production ready solution for a real client.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+A temporary landing page built for Pomleon Partners, a family owned real estate business in Oklahoma.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This page was designed to establish an online presence while the full-stack website is currently in development.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## PURPOSE
+
+The goal of this project was to..
+
+- provide a simple and professional online presence  
+- communicate what the business does clearly  
+- build trust with potential sellers  
+- hold space for future expansion into a full website  
+
+---
+
+## TECH STACK
+
+- React ( component-based UI )  
+- Vite ( development & build tool )  
+- Node.js / npm ( project tooling )  
+- CSS ( custom styling )  
+
+---
+
+## KEY FEATURES
+
+- responsive layout across devices  
+- brand focused color system  
+- lightweight and fast  
+
+---
+
+## 🚧 IN PROGRESS
+
+This landing page will evolve into a full application with..
+
+- contact + lead capture system  
+- backend integration  
+- multi-page experience  
+- enhanced UX  
+
+---
+
+## Reflection
+
+this project represents an early-stage product mindset... 
+building something real, useful, and immediate while planning for scale.
+
+---
+
+## Built By
+
+**Skie**  
+Full-Stack Developer | Building real-world web experiences
