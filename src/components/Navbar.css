@@ -1,0 +1,37 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    background-color: #1A2952;
+    padding: 0rem 1.5rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    min-height: 120px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 4rem;
+    margin-right: 30rem;
+}
+
+.navbar a {
+    color: #FAFAFA;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+    color: #D5AA32;
+}
+
+.logo-img {
+    height: 120px;
+    width: auto;
+    max-height: 120px;
+
+}
